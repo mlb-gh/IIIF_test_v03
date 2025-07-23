@@ -22,7 +22,7 @@
               "target": "https://example.com/manifests/audio.json/canvas/1",
               "body": {
                 "@type": "Sound",
-                "id": "https://example.com/audio/audio-sample.mp4",
+                "id": "https://mlb-gh.github.io/IIIF_test_v3/audio/Margaret-Leigh.mp3",
                 "format": "audio/mp4",
                 "duration": 1985.024
               }
