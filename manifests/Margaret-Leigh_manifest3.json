@@ -1,7 +1,7 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "@type": "Manifest",
-  "id": "https://mlb-gh.github.io/IIIF_test_v03/manifests/Margeret-Leigh_manifest3.json",
+  "id": "https://mlb-gh.github.io/IIIF_test_v03/manifests/Margaret-Leigh_manifest3.json",
   "label": {
     "en": [
       "Audio Example"
