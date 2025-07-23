@@ -50,11 +50,9 @@
             "@id" : "https://mlb-gh.github.io/IIIF_test_v2/images/24-72162p",
             "profile" : "http://iiif.io/api/image/2/level0.json"
           },
-          "height" : 5000,
-          "width" : 4431
-                        "height": 500,
-                        "width": 500
-                    }
+          "height": 500,
+          "width": 500
+        }
       } ],
       "related" : ""
     }, {
