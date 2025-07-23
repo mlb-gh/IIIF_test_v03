@@ -25,5 +25,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://mlb-gh.github.io/IIIF_test_v03/manifests/Pamphlet_manifest-05.json",
     "label" : "Pamphlet Not 5.G12.1 FLO"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mlb-gh.github.io/IIIF_test_v03/manifests/Pamphlet_manifest-06.json",
+    "label" : "Pamphlet Not 5.G12.1 FLO"
   } ]
 }
