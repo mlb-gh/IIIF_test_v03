@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://mlb-gh.github.io/IIIF_test_v03/manifests/Me-Lm-1-f79r_manifest3.json",
     "label" : "Me-Lm-1-f79r"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mlb-gh.github.io/IIIF_test_v03/manifests/Pamphlet_manifest_bodleian-build_3.json",
+    "label" : "Pamphlet Not 5.G12.1 FLO"
   } ]
 }
