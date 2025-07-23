@@ -1,0 +1,75 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://mlb-gh.github.io/IIIF_test_v03/manifests/Pamphlet_manifest-06.json",
+  "@type" : "sc:Manifest",
+  "label" : "Pamphlet Not 5.G12.1 FLO",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Images can be used for research for a non-commercial purpose or private study. Please contact Manuscripts and Special Collections if you require permission to publish or use an image for any other purpose.",
+  "sequences" : [ {
+    "@id" : "http://5819fa93-97db-4149-86f8-c8f7cf615dfc",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://fbdb418d-dd30-4cce-bc4f-70bbb4e65d44",
+      "@type" : "sc:Canvas",
+      "label" : "Front Cover",
+      "height" : 5000,
+      "width" : 4431,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9e66637f-3f28-499e-b615-74a1f9ad67a4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mlb-gh.github.io/IIIF_test_v2/images/24-72162p/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mlb-gh.github.io/IIIF_test_v2/images/24-72162p",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5000,
+          "width" : 4431
+        },
+        "on" : "http://fbdb418d-dd30-4cce-bc4f-70bbb4e65d44"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://5d5f8572-56f8-4372-9eb0-455fb536aaa6",
+      "@type" : "sc:Canvas",
+      "label" : "Title page",
+      "height" : 5000,
+      "width" : 4501,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://86ca28c7-c19c-42ea-a761-a142ada758c1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mlb-gh.github.io/IIIF_test_v2/images/24-72164p/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mlb-gh.github.io/IIIF_test_v2/images/24-72164p",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5000,
+          "width" : 4501
+        },
+        "on" : "http://5d5f8572-56f8-4372-9eb0-455fb536aaa6"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
