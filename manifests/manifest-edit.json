@@ -41,7 +41,7 @@
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "https://iiif.io/api/cookbook/recipe/0005-image-service/canvas/p1",
+                    "@id": "https://iiif.io/api/cookbook/recipe/0005-image-service/canvas/p2",
                     "@type": "sc:Canvas",
                     "label": "24-72162p",
                     "height": 8289,
@@ -68,7 +68,7 @@
                                 "height": 8289,
                                 "width": 7345
                             },
-                            "on": "https://iiif.io/api/cookbook/recipe/0005-image-service/canvas/p1",
+                            "on": "https://iiif.io/api/cookbook/recipe/0005-image-service/canvas/p2",
                             "metadata": [
                                 {
                                     "label": "Title",
