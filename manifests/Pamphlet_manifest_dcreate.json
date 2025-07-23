@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://example.org/w9sjmrumx7g-mdgev970",
+  "id": "https://mlb-gh.github.io/IIIF_test_v03/manifests/Pamphlet_manifest_dcreate.json",
   "type": "Manifest",
   "label": {
     "en": [
