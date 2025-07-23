@@ -1,0 +1,174 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://mlb-gh.github.io/IIIF_test_v03/manifests/Pamphlet_manifest_bodleian-build_3.json",
+  "@type" : "sc:Manifest",
+  "label" : "Pamphlet Not 5.G12.1 FLO",
+  "metadata" : [ {
+    "label" : "Title",
+    "value" : "Pamphlet promoting Florence Boot Hall of residence for women students / University College Nottingham, c.1928"
+  }, {
+    "label" : "Date",
+    "value" : "D: M: Y:1928"
+  }, {
+    "label" : "Description",
+    "value" : "Pamphlet promoting Florence Boot Hall, the first (and at the time, only) hall of residence for women students at University College Nottingham, from the 1920s.  It has various photographs and illustrations of the hall, and includes text description of facilities, regulations, and costs for students.Hall of residence for women students. [Nottingham] : University College Nottingham, [192-?]."
+  }, {
+    "label" : "Rights",
+    "value" : "Images can be used for research for a non-commercial purpose or private study. Please contact Manuscripts and Special Collections if you require permission to publish or use an image for any other purpose."
+  }, {
+    "label" : "Source",
+    "value" : "Pamphlet Not 5.G12.1"
+  }, {
+    "label" : "Type",
+    "value" : "Image"
+  }, {
+    "label" : "Format",
+    "value" : [ "Pamphlet" ]
+  } ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://adace944-b95c-4c4e-b622-ac7f858ca597",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://7ba74b32-1c37-452c-94b1-0d6f44791d22",
+      "@type" : "sc:Canvas",
+      "label" : "24-72162p",
+      "height" : 5000,
+      "width" : 4431,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://df8fbf22-9f6d-45f2-8be1-1d3f908be566",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mlb-gh.github.io/IIIF_test_v2/images/24-72162p/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mlb-gh.github.io/IIIF_test_v2/images/24-72162p",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5000,
+          "width" : 4431
+        },
+        "on" : "http://7ba74b32-1c37-452c-94b1-0d6f44791d22"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://aa0fa578-07a5-4fdb-b9e9-03b1aa40ae12",
+      "@type" : "sc:Canvas",
+      "label" : "24-72164p",
+      "height" : 5000,
+      "width" : 4501,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a7c7bd26-c038-4cf7-9542-c1ad6e615498",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mlb-gh.github.io/IIIF_test_v2/images/24-72164p/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mlb-gh.github.io/IIIF_test_v2/images/24-72164p",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5000,
+          "width" : 4501
+        },
+        "on" : "http://aa0fa578-07a5-4fdb-b9e9-03b1aa40ae12"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e77f2ea5-fda7-4a5f-b1b1-ede961a9e8d1",
+      "@type" : "sc:Canvas",
+      "label" : "24-72165p",
+      "height" : 5000,
+      "width" : 4501,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://feb6b659-e8bd-4b10-a0fc-45e9c76985c8",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mlb-gh.github.io/IIIF_test_v2/images/24-72165p/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mlb-gh.github.io/IIIF_test_v2/images/24-72165p",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5000,
+          "width" : 4501
+        },
+        "on" : "http://e77f2ea5-fda7-4a5f-b1b1-ede961a9e8d1"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9944770c-d8fb-4d76-ba6a-967992e357e5",
+      "@type" : "sc:Canvas",
+      "label" : "24-72167p",
+      "height" : 5000,
+      "width" : 4501,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://612872eb-bc87-47ef-b9bb-7121a623c93d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mlb-gh.github.io/IIIF_test_v2/images/24-72167p/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mlb-gh.github.io/IIIF_test_v2/images/24-72167p",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5000,
+          "width" : 4501
+        },
+        "on" : "http://9944770c-d8fb-4d76-ba6a-967992e357e5"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://7f87f2e1-6359-489c-8ef2-c10bf381442e",
+      "@type" : "sc:Canvas",
+      "label" : "E4-72174p",
+      "height" : 5000,
+      "width" : 4431,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://00e9f391-09a7-4994-9df6-7b6d513045ab",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mlb-gh.github.io/IIIF_test_v2/images/24-72174p/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mlb-gh.github.io/IIIF_test_v2/images/24-72174p",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5000,
+          "width" : 4431
+        },
+        "on" : "http://7f87f2e1-6359-489c-8ef2-c10bf381442e"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
