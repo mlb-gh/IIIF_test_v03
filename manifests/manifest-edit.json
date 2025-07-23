@@ -1,7 +1,7 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@type": "sc:Manifest",
-    "@id": "https://iiif.quartexcollections.com/qstarter89/iiif/2a63d818-9857-4c07-be5e-8693995bc155/manifest",
+    "@id": "https://mlb-gh.github.io/IIIF_test_v03/manifests/manifest-edit.json",
     "label": "Pamphlet Not 5.G12",
     "metadata": [
         {
