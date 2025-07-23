@@ -1,0 +1,508 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/w9sjmrumx7g-mdgev970",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Pamphlet"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Title"
+        ]
+      },
+      "value": {
+        "en": [
+          "Pamphlet promoting Florence Boot Hall of residence for women students / University College Nottingham, c.1928"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Source"
+        ]
+      },
+      "value": {
+        "en": [
+          "Pamphlet Not 5.G12.1"
+        ]
+      }
+    }
+  ],
+  "rights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "items": [
+    {
+      "id": "https://example.org/w9sjmrumx7g-mdgev970/canvas/vrrxuyuono-mdgezauk",
+      "type": "Canvas",
+      "height": 5000,
+      "width": 4431,
+      "label": {
+        "en": [
+          "Front cover"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              ""
+            ]
+          },
+          "value": {
+            "en": [
+              ""
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72162p/full/277,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 313,
+          "width": 277
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/w9sjmrumx7g-mdgev970/canvas/vrrxuyuono-mdgezauk/annotation-page/ahdf92ro0t5-mdgezauk",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/w9sjmrumx7g-mdgev970/annotation/zt8gofrlkl-mdgezauj",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/w9sjmrumx7g-mdgev970/canvas/vrrxuyuono-mdgezauk",
+              "body": {
+                "id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72162p/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5000,
+                "width": 4431,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 139,
+                        "height": 157
+                      },
+                      {
+                        "width": 277,
+                        "height": 313
+                      },
+                      {
+                        "width": 554,
+                        "height": 625
+                      },
+                      {
+                        "width": 1108,
+                        "height": 1250
+                      },
+                      {
+                        "width": 2216,
+                        "height": 2500
+                      },
+                      {
+                        "width": 4431,
+                        "height": 5000
+                      }
+                    ],
+                    "profile": "http://iiif.io/api/image/2/level0.json",
+                    "width": 4431,
+                    "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72162p",
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "height": 5000
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/w9sjmrumx7g-mdgev970/canvas/stnu5627srd-mdgf1y7q",
+      "type": "Canvas",
+      "height": 5000,
+      "width": 4501,
+      "label": {
+        "en": [
+          "Title page"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72164p/full/282,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 313,
+          "width": 282
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/w9sjmrumx7g-mdgev970/canvas/stnu5627srd-mdgf1y7q/annotation-page/xu06dnyqw7m-mdgf1y7q",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/w9sjmrumx7g-mdgev970/annotation/6d573x8og63-mdgf1y7q",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/w9sjmrumx7g-mdgev970/canvas/stnu5627srd-mdgf1y7q",
+              "body": {
+                "id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72164p/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5000,
+                "width": 4501,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 141,
+                        "height": 157
+                      },
+                      {
+                        "width": 282,
+                        "height": 313
+                      },
+                      {
+                        "width": 563,
+                        "height": 625
+                      },
+                      {
+                        "width": 1126,
+                        "height": 1250
+                      },
+                      {
+                        "width": 2251,
+                        "height": 2500
+                      },
+                      {
+                        "width": 4501,
+                        "height": 5000
+                      }
+                    ],
+                    "profile": "http://iiif.io/api/image/2/level0.json",
+                    "width": 4501,
+                    "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72164p",
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "height": 5000
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/w9sjmrumx7g-mdgev970/canvas/6u35vbi84ag-mdgf45tz",
+      "type": "Canvas",
+      "height": 5000,
+      "width": 4501,
+      "label": {
+        "en": [
+          "Photograph of Florence Boot Hall"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72165p/full/282,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 313,
+          "width": 282
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/w9sjmrumx7g-mdgev970/canvas/6u35vbi84ag-mdgf45tz/annotation-page/1wcz0ukjjcc-mdgf45tz",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/w9sjmrumx7g-mdgev970/annotation/w4r68p6ffpb-mdgf45tz",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/w9sjmrumx7g-mdgev970/canvas/6u35vbi84ag-mdgf45tz",
+              "body": {
+                "id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72165p/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5000,
+                "width": 4501,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 141,
+                        "height": 157
+                      },
+                      {
+                        "width": 282,
+                        "height": 313
+                      },
+                      {
+                        "width": 563,
+                        "height": 625
+                      },
+                      {
+                        "width": 1126,
+                        "height": 1250
+                      },
+                      {
+                        "width": 2251,
+                        "height": 2500
+                      },
+                      {
+                        "width": 4501,
+                        "height": 5000
+                      }
+                    ],
+                    "profile": "http://iiif.io/api/image/2/level0.json",
+                    "width": 4501,
+                    "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72165p",
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "height": 5000
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/w9sjmrumx7g-mdgev970/canvas/7y9ru7xa7w3-mdgf5ol8",
+      "type": "Canvas",
+      "height": 5000,
+      "width": 4501,
+      "label": {
+        "en": [
+          "Description of Florence Boot Hall"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72167p/full/282,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 313,
+          "width": 282
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/w9sjmrumx7g-mdgev970/canvas/7y9ru7xa7w3-mdgf5ol8/annotation-page/xm3vkttnk6k-mdgf5ol8",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/w9sjmrumx7g-mdgev970/annotation/y203c0ds0mp-mdgf5ol8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/w9sjmrumx7g-mdgev970/canvas/7y9ru7xa7w3-mdgf5ol8",
+              "body": {
+                "id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72167p/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5000,
+                "width": 4501,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 141,
+                        "height": 157
+                      },
+                      {
+                        "width": 282,
+                        "height": 313
+                      },
+                      {
+                        "width": 563,
+                        "height": 625
+                      },
+                      {
+                        "width": 1126,
+                        "height": 1250
+                      },
+                      {
+                        "width": 2251,
+                        "height": 2500
+                      },
+                      {
+                        "width": 4501,
+                        "height": 5000
+                      }
+                    ],
+                    "profile": "http://iiif.io/api/image/2/level0.json",
+                    "width": 4501,
+                    "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72167p",
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "height": 5000
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/w9sjmrumx7g-mdgev970/canvas/674gvdu2d1n-mdgf7dj1",
+      "type": "Canvas",
+      "height": 5000,
+      "width": 4431,
+      "label": {
+        "en": [
+          "Back cover"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72174p/full/277,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 313,
+          "width": 277
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/w9sjmrumx7g-mdgev970/canvas/674gvdu2d1n-mdgf7dj1/annotation-page/gw32po7w96w-mdgf7dj1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/w9sjmrumx7g-mdgev970/annotation/au52gd4stgn-mdgf7dj1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/w9sjmrumx7g-mdgev970/canvas/674gvdu2d1n-mdgf7dj1",
+              "body": {
+                "id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72174p/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5000,
+                "width": 4431,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 139,
+                        "height": 157
+                      },
+                      {
+                        "width": 277,
+                        "height": 313
+                      },
+                      {
+                        "width": 554,
+                        "height": 625
+                      },
+                      {
+                        "width": 1108,
+                        "height": 1250
+                      },
+                      {
+                        "width": 2216,
+                        "height": 2500
+                      },
+                      {
+                        "width": 4431,
+                        "height": 5000
+                      }
+                    ],
+                    "profile": "http://iiif.io/api/image/2/level0.json",
+                    "width": 4431,
+                    "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72174p",
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "height": 5000
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
