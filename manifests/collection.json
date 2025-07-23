@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://mlb-gh.github.io/IIIF_test_v03/manifests/U-33-96_manifest2.json",
     "label" : "University of Nottingham Museum U.33.96"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mlb-gh.github.io/IIIF_test_v03/manifests/Me-Lm-1-f79r_manifest3.json",
+    "label" : "Me-Lm-1-f79r"
   } ]
 }
