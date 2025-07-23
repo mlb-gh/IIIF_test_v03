@@ -1,0 +1,326 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Manifest",
+    "@id": "https://iiif.quartexcollections.com/qstarter89/iiif/2a63d818-9857-4c07-be5e-8693995bc155/manifest",
+    "label": "Pamphlet Not 5.G12",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "Pamphlet promoting Florence Boot Hall of residence for women students / University College Nottingham, c.1928"
+        },
+        {
+            "label": "Date",
+            "value": "D: M: Y:1928"
+        },
+        {
+            "label": "Description",
+            "value": "Pamphlet promoting Florence Boot Hall, the first (and at the time, only) hall of residence for women students at University College Nottingham, from the 1920s.  It has various photographs and illustrations of the hall, and includes text description of facilities, regulations, and costs for students.Hall of residence for women students. [Nottingham] : University College Nottingham, [192-?]."
+        },
+        {
+            "label": "Rights",
+            "value": "Images can be used for research for a non-commercial purpose or private study. Please contact Manuscripts and Special Collections if you require permission to publish or use an image for any other purpose."
+        },
+        {
+            "label": "Source",
+            "value": "Pamphlet Not 5.G12.1"
+        },
+        {
+            "label": "Type",
+            "value": "Image"
+        },
+        {
+            "label": "Format",
+            "value": [
+                "Pamphlet"
+            ]
+        }
+    ],
+    "description": "Pamphlet promoting Florence Boot Hall of residence for women students / University College Nottingham, c.1928",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://iiif.io/api/cookbook/recipe/0005-image-service/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "label": "24-72162p",
+                    "height": 8289,
+                    "width": 7345,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72162p/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72162p/",
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "width": 2048,
+                                            "scaleFactors": null
+                                        }
+                                    ]
+                                },
+                                "height": 8289,
+                                "width": 7345
+                            },
+                            "on": "https://iiif.io/api/cookbook/recipe/0005-image-service/canvas/p1",
+                            "metadata": [
+                                {
+                                    "label": "Title",
+                                    "value": "Front cover"
+                                },
+                                {
+                                    "label": "Description",
+                                    "value": "Front cover"
+                                },
+                                {
+                                    "label": "Subject",
+                                    "value": "University students; Student housing; Halls"
+                                },
+                                {
+                                    "label": "Type",
+                                    "value": "Image"
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72162p/full/277,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "height": 500,
+                        "width": 500
+                    }
+                },
+                
+                {
+                    "@id": "https://iiif.io/api/cookbook/recipe/0005-image-service/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "label": "24-72164p",
+                    "height": 8289,
+                    "width": 7462,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72164p/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72164p/",
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "width": 2048,
+                                            "scaleFactors": null
+                                        }
+                                    ]
+                                },
+                                "height": 8289,
+                                "width": 7462
+                            },
+                            "on": "https://iiif.io/api/cookbook/recipe/0005-image-service/canvas/p1",
+                            "metadata": [
+                                {
+                                    "label": "Title",
+                                    "value": "Title page"
+                                },
+                                {
+                                    "label": "Description",
+                                    "value": "Title page"
+                                },
+                                {
+                                    "label": "Subject",
+                                    "value": "University students; Student housing; Halls"
+                                },
+                                {
+                                    "label": "Type",
+                                    "value": "Image"
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72164p/full/282,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "height": 500,
+                        "width": 500
+                    }
+                },
+                {
+                    "@id": "https://iiif.io/api/cookbook/recipe/0005-image-service/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "label": "24-72165p",
+                    "height": 8289,
+                    "width": 7462,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72165p/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72165p/",
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "width": 2048,
+                                            "scaleFactors": null
+                                        }
+                                    ]
+                                },
+                                "height": 8289,
+                                "width": 7462
+                            },
+                            "on": "https://iiif.io/api/cookbook/recipe/0005-image-service/canvas/p1",
+                            "metadata": [
+                                {
+                                    "label": "Title",
+                                    "value": "Photograph of Florence Boot Hall, student hall of residence at University College Nottingham, c.1928."
+                                },
+                                {
+                                    "label": "Description",
+                                    "value": "Photograph of Florence Boot Hall, student hall of residence at University College Nottingham, c.1928."
+                                },
+                                {
+                                    "label": "Subject",
+                                    "value": "University students; Student housing; Halls"
+                                },
+                                {
+                                    "label": "Type",
+                                    "value": "Image"
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72165p/full/282,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "height": 500,
+                        "width": 500
+                    }
+                },
+                
+                {
+                    "@id": "https://iiif.io/api/cookbook/recipe/0005-image-service/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "label": "24-72167p",
+                    "height": 8289,
+                    "width": 7462,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72167p/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72167p/",
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "width": 2048,
+                                            "scaleFactors": null
+                                        }
+                                    ]
+                                },
+                                "height": 8289,
+                                "width": 7462
+                            },
+                            "on": "https://iiif.io/api/cookbook/recipe/0005-image-service/canvas/p1",
+                            "metadata": [
+                                {
+                                    "label": "Title",
+                                    "value": "Description of Florence Boot Hall, c.1928."
+                                },
+                                {
+                                    "label": "Description",
+                                    "value": "Description of Florence Boot Hall, c.1928."
+                                },
+                                {
+                                    "label": "Subject",
+                                    "value": "University students; Student housing; Halls"
+                                },
+                                {
+                                    "label": "Type",
+                                    "value": "Image"
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72167p/full/282,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "height": 500,
+                        "width": 500
+                    }
+                },
+                
+                {
+                    "@id": "https://iiif.io/api/cookbook/recipe/0005-image-service/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "label": "24-72174p",
+                    "height": 8289,
+                    "width": 7345,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72174p/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72174p/",
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": null
+                                },
+                                "height": 8289,
+                                "width": 7345
+                            },
+                            "on": "https://iiif.io/api/cookbook/recipe/0005-image-service/canvas/p1",
+                            "metadata": [
+                                {
+                                    "label": "Title",
+                                    "value": "Back cover"
+                                },
+                                {
+                                    "label": "Description",
+                                    "value": "Back cover"
+                                },
+                                {
+                                    "label": "Subject",
+                                    "value": "University students; Student housing; Halls"
+                                },
+                                {
+                                    "label": "Type",
+                                    "value": "Image"
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72174p/full/277,/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "height": 500,
+                        "width": 500
+                    }
+                }
+            ]
+        }
+    ],
+    "thumbnail": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72162p/full/139,/0/default.jpg"
+    
+}
