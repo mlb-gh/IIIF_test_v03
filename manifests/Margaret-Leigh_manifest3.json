@@ -1,0 +1,35 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "@type": "Manifest",
+  "id": "https://example.com/manifests/audio.json",
+  "label": {
+    "en": [
+      "Audio Example"
+    ]
+  },
+  "items": [
+    {
+      "@type": "Canvas",
+      "id": "https://example.com/manifests/audio.json/canvas/1",
+      "duration": 1985.024,
+      "items": [
+        {
+          "@type": "AnnotationPage",
+          "items": [
+            {
+              "@type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.com/manifests/audio.json/canvas/1",
+              "body": {
+                "@type": "Sound",
+                "id": "https://example.com/audio/audio-sample.mp4",
+                "format": "audio/mp4",
+                "duration": 1985.024
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
