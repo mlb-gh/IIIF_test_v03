@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://7f7eb4d2-5391-4d2b-bc18-05f20cdedfdf",
+	"@id" : "https://mlb-gh.github.io/IIIF_test_v03/manifests/Pamphlet_manifest_bodleian-build_3.json",
 	"@type": "sc:Manifest",
 	"label": "Pamphlet Not 5.G12.1 FLO",
 	"metadata": [
