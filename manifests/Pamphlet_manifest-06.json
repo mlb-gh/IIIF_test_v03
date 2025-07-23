@@ -74,7 +74,7 @@
         },
         "on" : "http://5d5f8572-56f8-4372-9eb0-455fb536aaa6"
         "thumbnail": {
-                        "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72164p/full/554,/0/default.jpg",
+                        "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/images/24-72164p/full/563,/0/default.jpg",
                         "@type": "dctypes:Image",
                         "height": 500,
                         "width": 500
