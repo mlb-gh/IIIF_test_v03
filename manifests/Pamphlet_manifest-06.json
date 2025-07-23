@@ -41,6 +41,12 @@
           "width" : 4431
         },
         "on" : "http://fbdb418d-dd30-4cce-bc4f-70bbb4e65d44"
+        "thumbnail": {
+                        "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72162p/full/500,500/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "height": 500,
+                        "width": 500
+                    }
       } ],
       "related" : ""
     }, {
@@ -67,6 +73,12 @@
           "width" : 4501
         },
         "on" : "http://5d5f8572-56f8-4372-9eb0-455fb536aaa6"
+        "thumbnail": {
+                        "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-72164p/full/500,500/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "height": 500,
+                        "width": 500
+                    }
       } ],
       "related" : ""
     } ]
