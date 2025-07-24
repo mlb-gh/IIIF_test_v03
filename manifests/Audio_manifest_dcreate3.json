@@ -109,7 +109,7 @@
                 "id": "https://s3.eu-central-1.amazonaws.com/eu-st01.ext.exlibrisgroup.com/44NOTTS_UNUK/storage/alma/59/84/42/4A/5D/34/2E/A0/A0/90/FF/8F/16/4A/B6/17/FME_4_19-Margaret-Leigh-clip_Manuscripts-and-Special-Collections_The-University-of-Nottingham.mp3?response-content-disposition=attachment%3B%20filename%3D%22FME_4_19-Margaret-Leigh-clip_Manuscripts-and-Special-Collections_The-University-of-Nottingham.mp3%22%3B%20filename%2A%3DUTF-8%27%27FME_4_19-Margaret-Leigh-clip_Manuscripts-and-Special-Collections_The-University-of-Nottingham.mp3&response-content-type=application%2Foctet-stream&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250723T213917Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAJN6NPMNGJALPPWAQ%2F20250723%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=1edfeb4920fb81bf8ac2b7201da776ac07d18100000c0d644e5498d42c5c2396",
                 "type": "Sound",
                 "format": "audio/mp4",
-                "duration": 141
+                "duration": 141.0
               }
             }
           ]
