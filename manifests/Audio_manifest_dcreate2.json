@@ -1,0 +1,120 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/2wxg17t05lr-mdgfotyn",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Margaret Leigh audio clip"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://example.org/2wxg17t05lr-mdgfotyn/canvas/p5xrslge5h-mdghlm7z",
+      "type": "Canvas",
+      "duration": 141,
+      "label": {
+        "en": [
+          "FME_4_19-Margaret-Leigh-clip_Manuscripts-and-Special-Collections_The-University-of-Nottingham"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Description"
+            ]
+          },
+          "value": {
+            "en": [
+              "Hear interviewee Margaret Leigh talk about the impact of the Women’s Liberation Movement on her choice of career as a health visitor."
+            ]
+          }
+        }
+      ],
+      "summary": {
+        "en": [
+          "Hear interviewee Margaret Leigh talk about the impact of the Women’s Liberation Movement on her choice of career as a health visitor."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://mlb-gh.github.io/IIIF_test_v03/images/23-69896m/full/357,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 1425,
+          "width": 1425,
+          "service": [
+            {
+              "tiles": [
+                {
+                  "scaleFactors": [
+                    32,
+                    16,
+                    8,
+                    4,
+                    2,
+                    1
+                  ],
+                  "width": 1024,
+                  "height": 1024
+                }
+              ],
+              "protocol": "http://iiif.io/api/image",
+              "sizes": [
+                {
+                  "width": 45,
+                  "height": 45
+                },
+                {
+                  "width": 90,
+                  "height": 90
+                },
+                {
+                  "width": 179,
+                  "height": 179
+                },
+                {
+                  "width": 357,
+                  "height": 357
+                },
+                {
+                  "width": 713,
+                  "height": 713
+                },
+                {
+                  "width": 1425,
+                  "height": 1425
+                }
+              ],
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "width": 1425,
+              "@id": "https://mlb-gh.github.io/IIIF_test_v03/images/23-69896m",
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "height": 1425
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/2wxg17t05lr-mdgfotyn/canvas/p5xrslge5h-mdghlm7z/annotation-page/5hsr5hty55i-mdghlm7z",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/2wxg17t05lr-mdgfotyn/annotation/ub2khfl8va-mdghlm7z",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/2wxg17t05lr-mdgfotyn/canvas/p5xrslge5h-mdghlm7z",
+              "body": {
+                "id": "https://s3.eu-central-1.amazonaws.com/eu-st01.ext.exlibrisgroup.com/44NOTTS_UNUK/storage/alma/59/84/42/4A/5D/34/2E/A0/A0/90/FF/8F/16/4A/B6/17/FME_4_19-Margaret-Leigh-clip_Manuscripts-and-Special-Collections_The-University-of-Nottingham.mp3?response-content-disposition=attachment%3B%20filename%3D%22FME_4_19-Margaret-Leigh-clip_Manuscripts-and-Special-Collections_The-University-of-Nottingham.mp3%22%3B%20filename%2A%3DUTF-8%27%27FME_4_19-Margaret-Leigh-clip_Manuscripts-and-Special-Collections_The-University-of-Nottingham.mp3&response-content-type=application%2Foctet-stream&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250723T213917Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAJN6NPMNGJALPPWAQ%2F20250723%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=1edfeb4920fb81bf8ac2b7201da776ac07d18100000c0d644e5498d42c5c2396",
+                "type": "Sound",
+                "format": "audio/mp4",
+                "duration": 141
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
