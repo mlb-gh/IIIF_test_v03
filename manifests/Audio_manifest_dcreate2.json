@@ -87,10 +87,10 @@
                 }
               ],
               "profile": "http://iiif.io/api/image/2/level0.json",
-              "width": 1425,
+              "width": 357,
               "@id": "https://mlb-gh.github.io/IIIF_test_v03/images/23-69896m",
               "@context": "http://iiif.io/api/image/2/context.json",
-              "height": 1425
+              "height": 357
             }
           ]
         }
