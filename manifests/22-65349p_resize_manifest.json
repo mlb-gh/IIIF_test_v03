@@ -1,0 +1,104 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://9cdd6679-1bf3-46af-a867-f8cdf495b3d6",
+	"@type": "sc:Manifest",
+	"label": "Cover of: Omega / University of Nottingham Economics Society. No. 4, 1968",
+	"metadata": [
+        {
+            "label": "Title",
+            "value": "Cover of: Omega / University of Nottingham Economics Society. No. 4, 1968."
+        },
+        {
+            "label": "Rights",
+            "value": "Images can be used for research for a non-commercial purpose or private study. Please contact Manuscripts and Special Collections if you require permission to publish or use an image for any other purpose."
+        },
+        {
+            "label": "Contributor",
+            "value": "The University of Nottingham"
+        },
+        {
+            "label": "Date",
+            "value": "D:00 M:00 Y:1968"
+        },
+        {
+            "label": "Description",
+            "value": "Cover of student magazine \"Omega\" produced by the University of Nottingham Economics Society."
+        },
+        {
+            "label": "Relation",
+            "value": "University of Nottingham Collection"
+        },
+        {
+            "label": "Source",
+            "value": "Periodicals Not 5.G16.2 ECO"
+        },
+        {
+            "label": "Subject",
+            "value": [
+                "Student organizations"
+            ]
+        },
+        {
+            "label": "Type",
+            "value": "Image"
+        },
+        {
+            "label": "Format",
+            "value": [
+                "Magazine"
+            ]
+        }
+    ],
+	"description": [
+		{
+			"@value": "Cover of student magazine \"Omega\" produced by the University of Nottingham Economics Society.",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Images can be used for research for a non-commercial purpose or private study. Please contact Manuscripts and Special Collections if you require permission to publish or use an image for any other purpose.",
+	"sequences": [
+		{
+			"@id": "http://9c25d9a4-528a-492d-a5b3-abc6962564f7",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://37b6c5d7-eac3-4389-8cd7-ac3546b585b0",
+					"@type": "sc:Canvas",
+					"label": "Periodicals Not 5.G16.2 ECO. Front cover.",
+					"height": 5000,
+					"width": 4696,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://05933471-0eed-4659-9d79-2de39830e246",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://mlb-gh.github.io/IIIF_test_v2/images/22-65349p_resize/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://mlb-gh.github.io/IIIF_test_v2/images/22-65349p_resize",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5000,
+								"width": 4696
+							},
+							"on": "http://37b6c5d7-eac3-4389-8cd7-ac3546b585b0"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
