@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://9cdd6679-1bf3-46af-a867-f8cdf495b3d6",
+	"@id": "https://mlb-gh.github.io/IIIF_test_v03/manifests/22-65349p_resize_manifest.json",
 	"@type": "sc:Manifest",
 	"label": "Cover of: Omega / University of Nottingham Economics Society. No. 4, 1968",
 	"metadata": [
