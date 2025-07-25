@@ -1,0 +1,125 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mlb-gh.github.io/IIIF_test_v03/manifests/audio_manifest_dbuild1.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Margaret Leigh audio clip"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://example.org/2wxg17t05lr-mdgfotyn/canvas/p5xrslge5h-mdghlm7z",
+      "type": "Canvas",
+      "duration": 141.0,
+      "label": {
+        "en": [
+          "FME_4_19-Margaret-Leigh-clip_Manuscripts-and-Special-Collections_The-University-of-Nottingham"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Description"
+            ]
+          },
+          "value": {
+            "en": [
+              "Hear interviewee Margaret Leigh talk about the impact of the Women’s Liberation Movement on her choice of career as a health visitor."
+            ]
+          }
+        }
+      ],
+      "summary": {
+        "en": [
+          "Hear interviewee Margaret Leigh talk about the impact of the Women’s Liberation Movement on her choice of career as a health visitor."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://mlb-gh.github.io/IIIF_test_v03/images/23-69896m/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 1425,
+          "width": 1425,
+          "service": [
+            {
+              "tiles": [
+                {
+                  "scaleFactors": [
+                    32,
+                    16,
+                    8,
+                    4,
+                    2,
+                    1
+                  ],
+                  "width": 1024,
+                  "height": 1024
+                }
+              ],
+              "protocol": "http://iiif.io/api/image",
+              "sizes": [
+                {
+                  "width": 45,
+                  "height": 45
+                },
+                {
+                  "width": 90,
+                  "height": 90
+                },
+                {
+                  "width": 179,
+                  "height": 179
+                },
+                {
+                  "width": 357,
+                  "height": 357
+                },
+                {
+                  "width": 713,
+                  "height": 713
+                },
+                {
+                  "width": 1425,
+                  "height": 1425
+                }
+              ],
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "width": 1425,
+              "@id": "https://mlb-gh.github.io/IIIF_test_v03/images/23-69896m",
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "height": 1425
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/2wxg17t05lr-mdgfotyn/canvas/p5xrslge5h-mdghlm7z/annotation-page/5hsr5hty55i-mdghlm7z",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/2wxg17t05lr-mdgfotyn/canvas/p5xrslge5h-mdghlm7z/annotation-page/5hsr5hty55i-mdghlm7z/annotation/dsl8xxw98b9-mdii9ssa",
+              "type": "Annotation",
+              "label": {
+                "en": [
+                  "FME_4_19-Margaret-Leigh-clip_Manuscripts-and-Special-Collections_The-University-of-Nottingham"
+                ]
+              },
+              "motivation": "painting",
+              "target": "https://example.org/2wxg17t05lr-mdgfotyn/canvas/p5xrslge5h-mdghlm7z",
+              "body": {
+                "id": "https://s3.eu-central-1.amazonaws.com/eu-st01.ext.exlibrisgroup.com/44NOTTS_UNUK/storage/alma/59/84/42/4A/5D/34/2E/A0/A0/90/FF/8F/16/4A/B6/17/FME_4_19-Margaret-Leigh-clip_Manuscripts-and-Special-Collections_The-University-of-Nottingham.mp3?response-content-disposition=attachment%3B%20filename%3D%22FME_4_19-Margaret-Leigh-clip_Manuscripts-and-Special-Collections_The-University-of-Nottingham.mp3%22%3B%20filename%2A%3DUTF-8%27%27FME_4_19-Margaret-Leigh-clip_Manuscripts-and-Special-Collections_The-University-of-Nottingham.mp3&response-content-type=application%2Foctet-stream&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250725T073056Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3599&X-Amz-Credential=AKIAJN6NPMNGJALPPWAQ%2F20250725%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=398174744f9c6b39dce611dbf037fcc07c4798398b8b1ee413a44e1497e1176a",
+                "type": "Sound",
+                "format": "audio/mp3",
+                "duration": 141.0
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
