@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://mlb-gh.github.io/IIIF_test_v03/manifests/audio_manifest_dbuild1.json",
+  "id": "https://mlb-gh.github.io/IIIF_test_v03/manifests/audio_manifest_dbuild2.json",
   "type": "Manifest",
   "label": {
     "en": [
