@@ -106,7 +106,7 @@
               "motivation": "painting",
               "target": "https://example.org/2wxg17t05lr-mdgfotyn/canvas/p5xrslge5h-mdghlm7z",
               "body": {
-                "id": "https://mlb-gh.github.io/IIIF_test_v3/audio/Margaret-Leigh.mp3",
+                "id": "https://s3.eu-central-1.amazonaws.com/eu-st01.ext.exlibrisgroup.com/44NOTTS_UNUK/storage/alma/59/84/42/4A/5D/34/2E/A0/A0/90/FF/8F/16/4A/B6/17/FME_4_19-Margaret-Leigh-clip_Manuscripts-and-Special-Collections_The-University-of-Nottingham.mp3?response-content-disposition=attachment%3B%20filename%3D%22FME_4_19-Margaret-Leigh-clip_Manuscripts-and-Special-Collections_The-University-of-Nottingham.mp3%22%3B%20filename%2A%3DUTF-8%27%27FME_4_19-Margaret-Leigh-clip_Manuscripts-and-Special-Collections_The-University-of-Nottingham.mp3&response-content-type=application%2Foctet-stream&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260326T113030Z&X-Amz-SignedHeaders=host&X-Amz-Credential=AKIAJUYRSPBSIJGGDX6A%2F20260326%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Expires=3599&X-Amz-Signature=847c96bb3ecda0f8b56d96d343f822dc0f27f15de79c36bfc42b325633bdcee7",
                 "type": "Sound",
                 "format": "audio/mp4",
                 "duration": 141.0
